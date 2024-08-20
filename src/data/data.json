@@ -1,0 +1,432 @@
+{
+  "songs": [
+    {
+      "id": "0",
+      "name": "drivers license",
+      "artist": "Olivia Rodrigo",
+      "artistId": "0",
+      "album": "SOUR",
+      "albumId": "0",
+      "duration": "4:02",
+      "image_url": "https://picsum.photos/300?random=1",
+      "audio_url": "/songs/Julio.mp3",
+      "featuredArtists": []
+    },
+    {
+      "id": "1",
+      "name": "Levitating",
+      "artist": "Dua Lipa",
+      "artistId": "1",
+      "album": "Future Nostalgia",
+      "albumId": "1",
+      "duration": "3:23",
+      "image_url": "https://picsum.photos/300?random=2",
+      "featuredArtists": ["DaBaby"]
+    },
+    {
+      "id": "2",
+      "name": "Leave The Door Open",
+      "artist": "Silk Sonic",
+      "artistId": "2",
+      "album": "An Evening with Silk Sonic",
+      "albumId": "2",
+      "duration": "4:02",
+      "image_url": "https://picsum.photos/300?random=3",
+      
+      "featuredArtists": ["Bruno Mars", "Anderson .Paak"]
+
+    },
+    {
+      "id": "3",
+      "name": "Heat Waves",
+      "artist": "Glass Animals",
+      "artistId": "3",
+      "album": "Dreamland",
+      "albumId": "3",
+      "duration": "4:09",
+      "image_url": "https://picsum.photos/300?random=4",
+      "featuredArtists": []
+    },
+    {
+      "id": "4",
+      "name": "abcdefu",
+      "artist": "GAYLE",
+      "artistId": "4",
+      "album": "abcdefu",
+      "albumId": "4",
+      "duration": "2:54",
+      "image_url": "https://picsum.photos/300?random=5",
+      "featuredArtists": []
+    },
+    {
+      "id": "5",
+      "name": "Bad Habits",
+      "artist": "Ed Sheeran",
+      "artistId": "5",
+      "album": "=",
+      "albumId": "5",
+      "duration": "3:53",
+      "image_url": "https://picsum.photos/300?random=6",
+      "featuredArtists": []
+    },
+    {
+      "id": "6",
+      "name": "As It Was",
+      "artist": "Harry Styles",
+      "artistId": "6",
+      "album": "Harry's House",
+      "albumId": "6",
+      "duration": "3:45",
+      "image_url": "https://picsum.photos/300?random=7",
+      "featuredArtists": []
+    },
+    {
+      "id": "7",
+      "name": "Montero (Call Me By Your Name)",
+      "artist": "Lil Nas X",
+      "artistId": "7",
+      "album": "Montero",
+      "albumId": "7",
+      "duration": "3:05",
+      "image_url": "https://picsum.photos/300?random=8",
+      "featuredArtists": []
+    },
+    {
+      "id": "8",
+      "name": "Good 4 U",
+      "artist": "Olivia Rodrigo",
+      "artistId": "0",
+      "album": "SOUR",
+      "albumId": "0",
+      "duration": "3:13",
+      "image_url": "https://picsum.photos/300?random=9",
+      "featuredArtists": []
+    },
+    {
+      "id": "9",
+      "name": "Enemy",
+      "artist": "Imagine Dragons",
+      "artistId": "11",
+      "album": "Enemy",
+      "albumId": "11",
+      "duration": "3:31",
+      "image_url": "https://picsum.photos/300?random=10",
+      "featuredArtists": ["JID"]
+    },
+    {
+      "id": "10",
+      "name": "Stay",
+      "artist": "The Kid Laroi",
+      "artistId": "12",
+      "album": "Stay",
+      "albumId": "12",
+      "duration": "3:00",
+      "image_url": "https://picsum.photos/300?random=11",
+      "featuredArtists": ["Justin Bieber"]
+    },
+    {
+      "id": "11",
+      "name": "Shivers",
+      "artist": "Ed Sheeran",
+      "artistId": "5",
+      "album": "=",
+      "albumId": "5",
+      "duration": "3:53",
+      "image_url": "https://picsum.photos/300?random=12",
+      "featuredArtists": []
+    },
+    {
+      "id": "12",
+      "name": "About Damn Time",
+      "artist": "Lizzo",
+      "artistId": "8",
+      "album": "Special",
+      "albumId": "8",
+      "duration": "3:23",
+      "image_url": "https://picsum.photos/300?random=13",
+      "featuredArtists": []
+    },
+    {
+      "id": "13",
+      "name": "Big Energy",
+      "artist": "Latto",
+      "artistId": "9",
+      "album": "777",
+      "albumId": "9",
+      "duration": "3:08",
+      "image_url": "https://picsum.photos/300?random=14",
+      "featuredArtists": []
+    },
+    {
+      "id": "14",
+      "name": "First Class",
+      "artist": "Jack Harlow",
+      "artistId": "10",
+      "album": "Come Home the Kids Miss You",
+      "albumId": "10",
+      "duration": "3:04",
+      "image_url": "https://picsum.photos/300?random=15",
+      "featuredArtists": []
+    },
+    {
+      "id": "15",
+      "name": "Heat Waves",
+      "artist": "Glass Animals",
+      "artistId": "3",
+      "album": "Dreamland",
+      "albumId": "3",
+      "duration": "4:09",
+      "image_url": "https://picsum.photos/300?random=86",
+      "featuredArtists": []
+    },
+
+    {
+      "id": "16",
+      "name": "Bad Habits",
+      "artist": "Ed Sheeran",
+      "artistId": "5",
+      "album": "=",
+      "albumId": "5",
+      "duration": "3:53",
+      "image_url": "https://picsum.photos/300?random=87",
+      "featuredArtists": []
+    },
+    {
+      "id": "17",
+      "name": "As It Was",
+      "artist": "Harry Styles",
+      "artistId": "6",
+      "album": "Harry's House",
+      "albumId": "6",
+      "duration": "3:45",
+      "image_url": "https://picsum.photos/300?random=89",
+      "featuredArtists": []
+    }
+  ],
+  "artists": [
+    {
+      "id": "0",
+      "name": "Olivia Rodrigo",
+      "image_url": "https://i.scdn.co/image/ab67616100005174ee954a3b5418065c2fe253fb"
+    },
+    {
+      "id": "1",
+      "name": "Dua Lipa",
+      "image_url": "https://i.scdn.co/image/ab67616100005174d42a27db3286b58553da8858"
+    },
+    {
+      "id": "2",
+      "name": "Silk Sonic",
+      "image_url": "https://picsum.photos/300?random=95"
+    },
+    {
+      "id": "3",
+      "name": "Glass Animals",
+      "image_url": "https://i.scdn.co/image/ab6761610000517466b27eccb69756f8eceabc23"
+    },
+    {
+      "id": "4",
+      "name": "GAYLE",
+      "image_url": "https://i.scdn.co/image/ab67616100005174ea3e9265575b9cd71749ca3e"
+    },
+    {
+      "id": "5",
+      "name": "Ed Sheeran",
+      "image_url": "https://i.scdn.co/image/ab676161000051749e690225ad4445530612ccc9"
+    },
+    {
+      "id": "6",
+      "name": "Harry Styles",
+      "image_url": "https://i.scdn.co/image/ab67616100005174f7db7c8ede90a019c54590bb"
+    },
+    {
+      "id": "7",
+      "name": "Lil Nas X",
+      "image_url": "https://i.scdn.co/image/ab67616100005174d66f1e0c883f319443d68c45"
+    },
+    {
+      "id": "8",
+      "name": "Lizzo",
+      "image_url": "https://i.scdn.co/image/ab676161000051740d66b3670294bf801847dae2"
+    },
+    {
+      "id": "9",
+      "name": "Latto",
+      "image_url": "https://i.scdn.co/image/ab67616100005174149677e9b0d9ef7b229499d9"
+    },
+    {
+      "id": "10",
+      "name": "Jack Harlow",
+      "image_url": "https://i.scdn.co/image/ab6761610000517475559132f961dcf3ba4f5c7a"
+    },
+    {
+      "id": "11",
+      "name": "Imagine Dragons",
+      "image_url": "https://i.scdn.co/image/ab67616100005174920dc1f617550de8388f368e"
+    },
+    {
+      "id": "12",
+      "name": "The Kid Laroi",
+      "image_url": "https://i.scdn.co/image/ab67616100005174125282d15a5a1682c96c735a"
+    }
+  ],
+  "albums": [
+    {
+      "id": "0",
+      "name": "SOUR",
+      "artist": "Olivia Rodrigo",
+      "artistId": "0",
+      "image_url": "https://i.scdn.co/image/ab67616d00001e02a91c10fe9472d9bd89802e5a",
+      "songs": ["0", "8"]
+    },
+    {
+      "id": "1",
+      "name": "Future Nostalgia",
+      "artist": "Dua Lipa",
+      "artistId": "1",
+      "image_url": "https://i.scdn.co/image/ab67616d00001e02bd26ede1ae69327010d49946",
+      "songs": ["1"]
+    },
+    {
+      "id": "2",
+      "name": "An Evening with Silk Sonic",
+      "artist": "Silk Sonic",
+      "artistId": "2",
+      "image_url": "https://i.scdn.co/image/ab67616d00001e02fcf75ead8a32ac0020d2ce86",
+      "songs": ["2"]
+    },
+    {
+      "id": "3",
+      "name": "Dreamland",
+      "artist": "Glass Animals",
+      "artistId": "3",
+      "image_url": "https://i.scdn.co/image/ab67616d00001e02712701c5e263efc8726b1464",
+      "songs": ["3", "15"]
+    },
+    {
+      "id": "4",
+      "name": "abcdefu",
+      "artist": "GAYLE",
+      "artistId": "4",
+      "image_url": "https://i.scdn.co/image/ab67616d00001e022842f743ebd32235bceb43d3",
+      "songs": ["4"]
+    },
+    {
+      "id": "5",
+      "name": "=",
+      "artist": "Ed Sheeran",
+      "artistId": "5",
+      "image_url": "https://i.scdn.co/image/ab67616d00001e02ef24c3fdbf856340d55cfeb2",
+      "songs": ["5", "11", "16"]
+    },
+    {
+      "id": "6",
+      "name": "Harry's House",
+      "artist": "Harry Styles",
+      "artistId": "6",
+      "image_url": "https://i.scdn.co/image/ab67616d00001e022e8ed79e177ff6011076f5f0",
+      "songs": ["6", "17"]
+    },
+    {
+      "id": "7",
+      "name": "Montero",
+      "artist": "Lil Nas X",
+      "artistId": "7",
+      "image_url": "https://i.scdn.co/image/ab67616d00001e02be82673b5f79d9658ec0a9fd",
+      "songs": ["7"]
+    },
+    {
+      "id": "8",
+      "name": "Special",
+      "artist": "Lizzo",
+      "artistId": "8",
+      "image_url": "https://i.scdn.co/image/ab67616d00001e02fe3b1b9cb7183a94e1aafd43",
+      "songs": ["12"]
+    },
+    {
+      "id": "9",
+      "name": "777",
+      "artist": "Latto",
+      "artistId": "9",
+      "image_url": "https://i.scdn.co/image/ab67616d00001e02326f80324c992d1eb403bf1c",
+      "songs": ["13"]
+    },
+    {
+      "id": "10",
+      "name": "Come Home the Kids Miss You",
+      "artist": "Jack Harlow",
+      "artistId": "10",
+      "image_url": "https://i.scdn.co/image/ab67616d00001e028e55edb69ca44a25b52b17bb",
+      "songs": ["14"]
+    },
+    {
+      "id": "11",
+      "name": "Enemy",
+      "artist": "Imagine Dragons",
+      "artistId": "11",
+      "image_url": "https://i.scdn.co/image/ab67616d00001e02aa597e50829169e6994eb403",
+      "songs": ["9"]
+    },
+    {
+      "id": "12",
+      "name": "Stay",
+      "artist": "The Kid Laroi",
+      "artistId": "12",
+      "image_url": "https://i.scdn.co/image/ab67616d00001e0241e31d6ea1d493dd77933ee5",
+      "songs": ["10"]
+    }
+  ],
+  "playlists": [
+    {
+      "id": "0",
+      "name": "Feel Good",
+      "description": "Upbeat songs to boost your mood.",
+      "image_url": "https://i.scdn.co/image/ab67706f00000002fd5512c007a869c4c8a9bca6",
+      "songs": ["1", "2", "3", "5", "6", "9", "4", "10", "0", "15"]
+    },
+    {
+      "id": "1",
+      "name": "Chill Hits",
+      "description": "Relaxing tunes to unwind.",
+      "image_url": "https://i.scdn.co/image/ab67706f00000002bbc45bb3394b18b21265add1",
+      "songs": ["2", "3", "14", "12", "11", "17", "1", "8", "4"]
+    },
+    {
+      "id": "2",
+      "name": "Lofi",
+      "description": "Upbeat songs to boost your study.",
+      "image_url": "https://i.scdn.co/image/ab67616d00001e0227b7fb06450f25598103491d",
+      "songs": ["6", "7", "8", "10", "12", "15", "16", "17", "0"]
+    },
+    {
+      "id": "3",
+      "name": "Alone Again",
+      "description": "Being alone can be tough but these songs will help you get through it.",
+      "image_url": "https://i.scdn.co/image/ab67706f0000000265af49474d91827160b56b27",
+
+      "songs": ["1", "2", "3", "5", "6", "9", "4", "10", "0", "15"]
+    },
+    {
+      "id": "4",
+      "name": "Pop Shots",
+      "description": "All your pop favorites in one place.",
+      "image_url": "https://i.scdn.co/image/ab67706f000000022c2c689da8ac48a632e38774",
+
+      "songs": ["2", "3", "14", "12", "11", "17", "1", "8", "4"]
+    },
+    {
+      "id": "5",
+      "name": "Life Sucks",
+      "description": "Having a bad day? We know how it feels!",
+      "image_url": "https://i.scdn.co/image/ab67706f0000000237499ba650da0f36e8285bd9",
+      "songs": ["6", "7", "8", "10", "12", "15", "16", "17", "0"]
+    },
+    {
+      "id": "6",
+      "name": "Homework Vibes",
+      "description": "Some bops to take the pain of honework away.",
+      "image_url": "https://i.scdn.co/image/ab67706f0000000264a2f100351022f13e2f8fa1",
+      "songs": ["6", "7", "8", "10", "12", "15", "16", "17", "0"]
+    }
+  ]
+}
