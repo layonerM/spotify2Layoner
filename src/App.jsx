@@ -13,10 +13,10 @@ import { useRecoilValue } from "recoil";
 function App() {
   const user = useRecoilValue(userAtom);
 
-  // Define a sample track
+
   const track = {
     title: 'drivers license',
-    src: '/songs/Doce Rosas.mp3'  // Path to your song in public folder
+    src: '/songs/Doce Rosas.mp3'  
   };
 
   return (
@@ -35,7 +35,7 @@ function App() {
         </Row>
       </Container>
       
-      {/* Include the AudioPlayer component */}
+      {}
       {user.user && <AudioPlayer track={track} />}
     </>
   );
